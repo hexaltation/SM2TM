@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+  <canvas id="slideshow"></canvas>
+  </body>
+  <script type="text/javascript">
+  var images = {};
+    <% for(var i=0; i<images.length; i++){ %>
+      images["<%= images[i].split('.')[0] %>"]="<%= images[i] %>";
+    <% } %>
+    console.log(images);
+  </script>
+  <script type="text/javascript" src="/javascripts/slideshow.js"></script>
+</html>

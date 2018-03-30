@@ -1,0 +1,104 @@
+%%%%%
+
+Diapo d'inauguration de la présentation (1)
+-Salutation formelle des membres.
+-Excuse de Grégor
+-Context de préparation de l'avid Connect et du NAB
+
+-Enoncé du plan
+-Rappel de ma vie avant la coding
+    -Matricule
+    -Vie précédente (incise sur Montage, Lapins bleus, Intégration)
+    -Rappel de pourquoi cette formation
+
+%%%%%
+
+Diapo Le groupe Askida-Taldea (2)
+-Woody une filiale du groupe Askida-Taldea
+-Un groupe qui place des prestataire dans les chaines de TV
+
+%%%%%
+
+Diapo (3)
+-Expérience Terrain.
+
+
+%%%%%
+
+Diapo (4)
+-Choix de créer il y a 5 ans cette boite.
+-Idée de départ se baser sur les retours métiers des utilisateurs de Terrain
+-Faire des briques qui manquent entre deux mondes/systèmes
+
+%%%%%
+
+Diapo Les produits (5)
+-Donner un exemple de problématique claire (avid vers diff, dalet vers adobe)
+-Survol rapide de la gamme
+
+%%%%%
+
+Diapo Les clients (5)
+toutes les chaines française de plus en plus de chaines à l'international
+
+%%%%%
+
+Diapo Contexte(7)
+passage V2 et V3
+
+%%%%%
+
+Diapo Techno(8)
+-node, express.
+-cpp.
+-front js
+
+
+%%%%%
+
+Diapo Outils(9)
+-gitlab
+-esxi vmware
+-cscript
+-ma nemesis windows
+
+%%%%%
+
+Diapo Ma mission (10)
+-bugpicker
+-Tester les logiciels
+-Les certifier
+
+%%%%%
+
+Diapo Au dela de ma mission (11)
+-Apporter mon expérience metier
+-contexte de reconfiguration de l'équipe et des produits
+-A ce jour un bout de moteur de tests
+-Reste à l'interfacer avec gitlab
+-Remise en place des tool chain de build crossplateforme de ffmpeg
+-Mise en place d'un environemnt Visual pour tracking et debug, et contribution au code.
+-Défrichage de la norme aaf
+-Lecture de la norme mxf
+-Boulot de chef de projet, organisation, et infrastructure
+
+%%%%%
+
+Diapo l'avenir (12)
+-J'étais venu la pour apprendre et partir faire de l'inépendant après.
+-Qualité d'organisateur reconnu
+-Embauché dans le groupe pour une mission de 6 mois de chef de projet multimédia chez next interractive
+doublure qui commence mardi.
+-Laisser les aventures venir à nous.
+
+%%%%%
+
+Diapo One more thing (13)
+-Dire que le moteur de diapo de cette présentation à été codé par mes petits doigts boudinés
+et qu'il sera retouché et rendu public après la fin de la soutenance.
+
+%%%%%
+
+-Diapo de fin (14)
+-coordonnées
+-gihub, gitlab
